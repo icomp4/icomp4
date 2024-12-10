@@ -6,7 +6,6 @@
 
 ## What I'm Working On 🚀
 
-- 💪 PeakPhysique - A no-nonsense workout tracker (Kotlin)
 - 👥 Crux - A web app for finding a team to connect with on your next endeavor (Go & Vue.js)
 
 
