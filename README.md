@@ -6,7 +6,7 @@
 
 ## What I'm Working On 🚀
 
-- 👥 Crux - A web app for finding a team to connect with on your next endeavor (Go & Vue.js)
+- 👥 [crux](https://cruxapp.xyz/) - A developer community for finding projects and teammates!
 
 
 ## My Tech Stack 🛠️
