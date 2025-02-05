@@ -7,6 +7,7 @@
 ## What I'm Working On 🚀
 
 - 👥 [crux](https://cruxapp.xyz/) - A developer community for finding projects and teammates!
+- 🦀 [taskCat](https://github.com/icomp4/taskcat) - A modern task manager alternative built in Rust.
 
 
 ## My Tech Stack 🛠️
