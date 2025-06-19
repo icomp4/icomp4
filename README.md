@@ -5,13 +5,13 @@
 🔧 Working at Home Depot while studying
 
 ## What I'm Working On 🚀
+### <img src="https://media.discordapp.net/attachments/958865971697831977/1385097008028717167/bb.png?ex=6854d39c&is=6853821c&hm=fe4a36e4ffdda63ae8497f9d619e4ea13a5bcb40cdbac3e04d2e3ea8d687bf8a&=&format=webp&quality=lossless&width=960&height=960" width="30" height="30" align="center"> [Bookie Bandit](https://whop.com/bookiebandit/wins-EHFfTsGNoV6HBB/app/) 
+> Sports betting automation software
 
-- 👥 [crux](https://cruxapp.xyz/) - A developer community for finding projects and teammates!
-- 🦀 [taskCat](https://github.com/icomp4/taskcat) - A modern task manager alternative built in Rust.
-
+### <img src="https://media.discordapp.net/attachments/958865971697831977/1385098559317082143/crux_logo_twitter.png?ex=6854d50e&is=6853838e&hm=f90d3b0298fb0eb41f502acd928d5fb1edd935bb9e338fd596177123e46a89ac&=&format=webp&quality=lossless" width="30" height="30" align="center"> [Crux](https://cruxapp.org)
+> Software engineer social networking platform for finding project teammates
 
 ## My Tech Stack 🛠️
-
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
