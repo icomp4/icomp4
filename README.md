@@ -9,7 +9,7 @@
 > Sports betting automation software
 
 ### <img src="https://media.discordapp.net/attachments/958865971697831977/1385098559317082143/crux_logo_twitter.png?ex=6854d50e&is=6853838e&hm=f90d3b0298fb0eb41f502acd928d5fb1edd935bb9e338fd596177123e46a89ac&=&format=webp&quality=lossless" width="30" height="30" align="center"> [Crux](https://cruxapp.org)
-> Software engineer social networking platform for finding project teammates
+> Developer networking platform connecting engineers for collaborative projects
 
 ## My Tech Stack 🛠️
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
