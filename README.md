@@ -1,27 +1,4 @@
-# Hi there, I'm Isaiah! 👋
+# Hi there, I'm Isaiah!
 
-🎓 Computer Science student at Farmingdale State College  
-💻 Currently building web & mobile apps  
-🔧 Working at Home Depot while studying
-
-## What I'm Working On 🚀
-### <img src="https://pbs.twimg.com/profile_images/1810670025176428544/3Yod2Hvk_400x400.jpg" width="30" height="30" align="center"> [Bookie Bandit](https://whop.com/bookiebandit/wins-EHFfTsGNoV6HBB/app/) 
-> Sports betting automation software
-
-### <img src="https://pbs.twimg.com/profile_images/1857255471855341568/7Pr5Gaye_400x400.jpg" width="30" height="30" align="center"> [Crux](https://cruxapp.org)
-> Developer networking platform connecting engineers for collaborative projects
-
-## My Tech Stack 🛠️
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-![HTMX](https://img.shields.io/badge/htmx-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-
-## Let's Connect! 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaiahcompere44-blue?style=flat&logo=linkedin)](https://linkedin.com/in/isaiahcompere44)
+Computer Science student at Farmingdale State College  
+Currently building [corli](https://www.corli.app) & [Bookie Bandit](https://whop.com/discover/bookiebandit/)
